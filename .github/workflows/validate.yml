@@ -1,0 +1,34 @@
+name: 校驗
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: 校驗 frontmatter 與體例
+        run: npm run validate
+
+      - name: 重新生成索引
+        run: npm run index
+
+      - name: 索引是否為最新
+        run: |
+          if ! git diff --quiet INDEX.md exports/; then
+            echo "::error::INDEX.md 或 exports/ 不是最新。請在本機執行 npm run index 後一併提交。"
+            git diff --stat
+            exit 1
+          fi

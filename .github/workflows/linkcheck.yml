@@ -1,0 +1,31 @@
+name: 連結檢查
+
+on:
+  schedule:
+    - cron: "0 0 1 * *" # 每月一日
+  workflow_dispatch:
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 檢查 cases/ 與 appendix/ 的連結
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-retries 2
+            --accept 200,206,403,429
+            --exclude 'example\.com'
+            cases appendix
+          fail: false
+
+      - name: 有失效連結則開 issue
+        if: env.lychee_exit_code != '0'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: 失效連結（每月檢查）
+          content-filepath: ./lychee/out.md
+          labels: link-rot

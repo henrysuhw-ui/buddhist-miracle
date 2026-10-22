@@ -63,6 +63,7 @@ https://youtu.be/xxxx?t=754 | Archive: https://web.archive.org/web/xxxx
 
 - The title is the one-line summary: state the fact, no suspense.
 - Titles name the person, not the place; the place belongs in the setting.
+- Plain modern prose: one event per sentence, with the subject present.
 - Be specific about setting: date, city, identity, occasion. Do not publish identifying details unless the person disclosed them publicly.
 - Keep the account and the person's own interpretation in separate sections.
 - Always "they believe", never asserted by the editor.

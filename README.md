@@ -15,6 +15,7 @@
 | # | 一句話 | 年月 | 標記 | 出處 |
 |---:|---|---|---|---|
 | [0001](cases/1978-np-0001-annapurna-guanyin.md) | 鮑果勒居士墜崖四十呎，念觀音七日，大難不死 | 1978 | 自述 | drbachinese.org |
+| [0002](cases/1985-tw-0002-fatzang-airforce-lottery.md) | 法藏法師差一題落榜預官，念大悲咒，抽中十七支空軍籤的第一支 | 1985 | 自述 | youtube.com |
 
 ## 收錄
 

@@ -15,6 +15,7 @@ What this archive offers is a findable source, not a claim of proof. Those who b
 | # | In one line | Date | Label | Source |
 |---:|---|---|---|---|
 | [0001](cases/1978-np-0001-annapurna-guanyin.md) | Upasaka Doug Powers fell forty feet off Annapurna; seven days reciting Guanyin, and lived | 1978 | Self-account | drbachinese.org |
+| [0002](cases/1985-tw-0002-fatzang-airforce-lottery.md) | Ven. Fatzang missed the officer exam by one question; reciting the Great Compassion Mantra, he drew the first of seventeen air-force lots | 1985 | Self-account | youtube.com |
 
 ## What we accept
 

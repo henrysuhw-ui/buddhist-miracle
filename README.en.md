@@ -12,13 +12,9 @@ What this archive offers is a findable source, not a claim of proof. Those who b
 
 ## Contents
 
-_None yet._
-
-Once entries exist, this section holds one line per account:
-
 | # | In one line | Date | Label | Source |
 |---:|---|---|---|---|
-| [0001](cases/2024-hk-0001-slug.md) | The night before surgery, she dreamed of a figure in white | 2023-11 | Self-account | youtube.com |
+| [0001](cases/1978-np-0001-annapurna-guanyin.md) | Upasaka Doug Powers fell forty feet off Annapurna; seven days reciting Guanyin, and lived | 1978 | Self-account | drbachinese.org |
 
 ## What we accept
 
@@ -61,16 +57,15 @@ the dream had anything to do with the tumour.
 
 Source: 2 March 2024, YouTube, 12:34.
 https://youtu.be/xxxx?t=754 | Archive: https://web.archive.org/web/xxxx
-The editor did not witness this and has not seen the medical records.
 ```
 
 > The example above is invented for illustration, not a real case.
 
 - The title is the one-line summary: state the fact, no suspense.
+- Titles name the person, not the place; the place belongs in the setting.
 - Be specific about setting: date, city, identity, occasion. Do not publish identifying details unless the person disclosed them publicly.
 - Keep the account and the person's own interpretation in separate sections.
 - Always "they believe", never asserted by the editor.
-- Close with what the editor did not see.
 
 Two labels only: **self-account** and **oral record**.
 

@@ -1,78 +1,97 @@
 # A Record of Modern Buddhist Responses · buddhist-miracle
 
-A collection of contemporary accounts of Buddhist response (感應, *ganying*), one file per account, each with a traceable original source.
+Contemporary accounts of Buddhist response (感應, *ganying*), one file per account, each with a source.
 
-**Only publicly available, checkable material is included. Private stories are not collected.**
+**Published, checkable material only. Private stories are not collected.**
 
-**What this archive offers is a findable source — not a claim of proof.**
+What this archive offers is a findable source, not a claim of proof. Those who believe will believe; those who do not may take it as they please.
 
-An account of response is, by its nature, somebody's own experience. All we do is keep what that person said or wrote, together with a link and a timestamp anyone can follow. Those who believe will believe; those who do not may take it as they please.
-
-[中文](README.md)　|　[Preface](PREFACE.md)　|　[Index](INDEX.md)　|　[Contributing](CONTRIBUTING.md)
+[中文](README.md)　|　[Preface](PREFACE.md)
 
 ---
 
-## What this is
+## Contents
 
-Classical Chinese records of response (感應錄) describe events centuries old, whose people, places and offices can no longer be checked. This archive takes modern accounts instead: there is a voice, a face, an account name, a URL — you can go and watch the person say it.
+_None yet._
 
-Each entry is short, 120–400 characters. We publish summaries only, partly because they read quickly, and partly because the full text belongs to the narrator. If you want the whole thing, follow the source. That is what this archive is really pointing at.
+Once entries exist, this section holds one line per account:
+
+| # | In one line | Date | Label | Source |
+|---:|---|---|---|---|
+| [0001](cases/2024-hk-0001-slug.md) | The night before surgery, she dreamed of a figure in white | 2023-11 | Self-account | youtube.com |
 
 ## What we accept
 
-1. **First-person accounts** — video, audio, writing, or a first-person passage in a book.
-2. **Published oral records** — the person spoke, someone else recorded it, and the record was published (interview, documentary, podcast, press).
-3. **A source** — URL or book with page number, plus the date accessed and an archived snapshot.
-4. **Summary only** — no full-text reproduction, no re-uploaded video; quotations are short and carry a timestamp or page number.
-5. **Not accepted** — hearsay, retellings of retellings, anything without a traceable origin. Such material goes to the [appendix](appendix/), recorded but not admitted.
+1. **First-person accounts** — video, audio, writing or a first-person passage in a book, already published.
+2. **Published oral records** — the person spoke, another recorded and published it (interview, documentary, podcast, press).
+3. **A source** — URL with timecode, or book with page number, plus the date accessed and an archived snapshot.
+4. **Summary only** — 120–400 characters, no full-text reproduction, no re-uploaded video; quotations short and timestamped.
+5. **Not accepted** — hearsay, retellings of retellings, private experiences, unpublished manuscripts, chat screenshots.
 
-Accounts passed on by relatives, sermons retelling a layperson's story, "someone once told me" — none of these are accepted. Neither are private stories offered to the editor, however sincere: this is an archive of published material, not a collection of confidences. Fewer and sound beats many and doubtful.
+This is an archive of published material, not a collection of confidences.
 
-## Two labels
+## Format
 
-| Label | Meaning |
-|---|---|
-| **自述** (self-account) | Told by the person concerned |
-| **口述記** (oral record) | Told by the person, recorded by another, published |
+File name: `cases/YYYY-REGION-NNNN-slug.md`, number never reused.
 
-The label describes how far the source stands from the person — not whether the event happened. This archive does not judge that, and cannot.
+```markdown
+---
+id: "0001"
+date: 2023-11
+place: Hong Kong
+theme: [illness, dream]
+tag: self-account
+---
 
-## The shape of an entry
+# The night before surgery, she dreamed of a figure in white
 
+## Setting
+November 2023, Hong Kong, a woman in her fifties, secondary school teacher,
+stage III breast cancer, public hospital.
+
+## Account
+She says she chanted until she fell asleep the night before surgery, and in the
+dream a figure in white stood at the foot of the bed, saying nothing.
+She woke before dawn, calm, her hands no longer shaking. The pathology report
+after surgery showed a smaller tumour than expected.
+
+## Their own understanding
+She believes it was Guanyin appearing to her, and says she cannot tell whether
+the dream had anything to do with the tumour.
+
+Source: 2 March 2024, YouTube, 12:34.
+https://youtu.be/xxxx?t=754 | Archive: https://web.archive.org/web/xxxx
+The editor did not witness this and has not seen the medical records.
 ```
-## 一句話 / In one line
-## 情境 / Setting      ← date, place, identity, occasion; plain and specific
-## 經過 / Account
-## 當事人的理解 / Their own understanding  ← always "they believe", never asserted by us
-出處 / Source: date, platform, title, timestamp or page, date accessed.
-```
 
-The third section records what happened; the fourth records how the person themselves explained it. They are kept apart because we can hear their words but cannot see their causation.
+> The example above is invented for illustration, not a real case.
 
-The closing line — *the editor did not witness this* — is the whole of our method, placed where it belongs: not lecturing the reader up front, and not hidden to look thorough.
+- The title is the one-line summary: state the fact, no suspense.
+- Be specific about setting: date, city, identity, occasion. Do not publish identifying details unless the person disclosed them publicly.
+- Keep the account and the person's own interpretation in separate sections.
+- Always "they believe", never asserted by the editor.
+- Close with what the editor did not see.
+
+Two labels only: **self-account** and **oral record**.
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). The easiest route is to open a [submission issue](../../issues/new?template=submit-case.yml) with a **public** original link and the timecode. Please do not send private experiences.
+Open a [submission issue](https://github.com/henrysuhw-ui/buddhist-miracle/issues/new?template=submit-case.yml) with a public link and a timecode. Please do not send private experiences.
 
 ## Removal
 
-**If the person concerned asks for removal, it is removed unconditionally within seven days, no reason required.** Email or issue. This is not negotiable and no objection is recorded.
+**If the person concerned asks for removal, it is removed unconditionally within seven days**, even if the material was public. No reason required.
 
-## Licensing
+## Citation
 
-- Entries (our summaries and editorial text): [CC BY-SA 4.0](LICENSE)
-- Validation and index scripts: [MIT](LICENSE-CODE)
-- Quotations remain the property of their rights holders; used briefly and attributed.
-
-## Layout
+Use a commit-pinned link (press `y` on the file page):
 
 ```
-cases/          the archive, one file per account
-appendix/       doubtful or pending material
-examples/       format examples (not real cases)
-docs/           editorial rules, legal notes, citation, template
-scripts/        validation and index generation
-PREFACE.md      preface (to be written)
-INDEX.md        generated index
+https://github.com/henrysuhw-ui/buddhist-miracle/blob/COMMIT_SHA/cases/2024-hk-0001-slug.md
 ```
+
+Cite the original source from the entry's final line alongside our summary.
+
+## Licence
+
+Editorial summaries: [CC BY-SA 4.0](LICENSE). Quotations, video and book passages remain the property of their rights holders.

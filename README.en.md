@@ -16,13 +16,14 @@ What this archive offers is a findable source, not a claim of proof. Those who b
 |---:|---|---|---|---|
 | [0001](cases/1978-np-0001-annapurna-guanyin.md) | Upasaka Doug Powers fell forty feet off Annapurna; seven days reciting Guanyin, and lived | 1978 | Self-account | drbachinese.org |
 | [0002](cases/1985-tw-0002-fatzang-airforce-lottery.md) | Ven. Fatzang missed the officer exam by one question; reciting the Great Compassion Mantra, he drew the first of seventeen air-force lots | 1985 | Self-account | youtube.com |
+| [0003](cases/1969-tw-0003-zhang-naibin-fourth-child.md) | Zhang Naibin's fourth pregnancy brought months of nightly self-harm; a monk said it was a three-month debt from a past life. The child died at one month | 1969 | Self-account | youtube.com |
 
 ## What we accept
 
 1. **First-person accounts** — video, audio, writing or a first-person passage in a book, already published.
 2. **Published oral records** — the person spoke, another recorded and published it (interview, documentary, podcast, press).
 3. **A source** — URL with timecode, or book with page number, plus the date accessed and an archived snapshot.
-4. **Summary only** — 120–400 characters, no full-text reproduction, no re-uploaded video; quotations short and timestamped.
+4. **Summary only** — 120–600 characters, no full-text reproduction, no re-uploaded video; quotations short and timestamped.
 5. **Not accepted** — hearsay, retellings of retellings, private experiences, unpublished manuscripts, chat screenshots.
 
 This is an archive of published material, not a collection of confidences.

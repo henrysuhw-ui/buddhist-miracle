@@ -16,7 +16,7 @@
 |---:|---|---|---|---|
 | [0001](cases/1978-np-0001-annapurna-guanyin.md) | 鮑果勒居士墜崖四十呎，念觀音七日，大難不死 | 1978 | 自述 | drbachinese.org |
 | [0002](cases/1985-tw-0002-fatzang-airforce-lottery.md) | 法藏法師差一題落榜預官，念大悲咒，抽中十七支空軍籤的第一支 | 1985 | 自述 | youtube.com |
-| [0003](cases/1969-tw-0003-zhang-naibin-fourth-child.md) | 張迺彬懷第四胎日夜自殘，孩子滿月仍走，法師說是前世欠的三個月 | 1969 | 自述 | youtube.com |
+| [0003](cases/1969-tw-0003-zhang-naibin-fourth-child.md) | 張迺彬懷第四胎日夜自殘，孩子滿月仍離世，法師說是前世欠的三個月 | 1969 | 自述 | youtube.com |
 
 ## 收錄
 

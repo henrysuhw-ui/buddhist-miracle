@@ -16,7 +16,7 @@ What this archive offers is a findable source, not a claim of proof. Those who b
 |---:|---|---|---|---|
 | [0001](cases/1978-np-0001-annapurna-guanyin.md) | Upasaka Doug Powers fell forty feet off Annapurna; seven days reciting Guanyin, and lived | 1978 | Self-account | drbachinese.org |
 | [0002](cases/1985-tw-0002-fatzang-airforce-lottery.md) | Ven. Fatzang missed the officer exam by one question; reciting the Great Compassion Mantra, he drew the first of seventeen air-force lots | 1985 | Self-account | youtube.com |
-| [0003](cases/1969-tw-0003-zhang-naibin-fourth-child.md) | Zhang Naibin's fourth pregnancy brought months of nightly self-harm; a monk said it was a three-month debt from a past life. The child died at one month | 1969 | Self-account | youtube.com |
+| [0003](cases/1969-tw-0003-zhang-naibin-fourth-child.md) | Zhang Naibin's fourth pregnancy brought months of nightly self-harm; a monk said it was a three-month debt from a past life. The child passed away at one month old | 1969 | Self-account | youtube.com |
 
 ## What we accept
 

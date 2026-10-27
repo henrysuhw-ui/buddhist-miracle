@@ -28,7 +28,7 @@ tag: 自述
 
 孩子還說，本來活不過一個月，原打算在她生日那天帶她走；因為她日夜念觀音，帶不走，只好自己離去。母親這才說出，家族長女活不過三十四歲。
 
-出處：張迺彬受訪自述（影片上載日2019-03-05，頻道 Laura，片長1:42:57），自述段27:00–1:29:00，引文0:35:39、0:42:38、0:46:35、0:52:47。存取：2026-10-27。
+出處：張迺彬受訪自述（影片上載日2019-03-05，頻道 Laura，片長1:42:57），自述段27:00–1:29:00，引文0:35:39、0:42:38、0:46:35。存取：2026-10-27。
 https://www.youtube.com/watch?v=xD-fFaGx6hA ｜ 存檔：https://web.archive.org/web/20261027063540/https://www.youtube.com/watch?v=xD-fFaGx6hA
 人間福報報導（2016-10-31，記者曹麗蕙，記她在金光明寺現身說法）：https://www.merit-times.com.tw/NewsPage.aspx?unid=450696 ｜ 存檔：https://web.archive.org/web/20261027063402/https://www.merit-times.com.tw/NewsPage.aspx?unid=450696
 片中無字幕；逐字稿由編者以本地語音辨識轉出（存 research/notes/），引文據此轉寫稿。
